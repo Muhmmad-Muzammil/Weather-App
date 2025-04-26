@@ -36,7 +36,7 @@ This app allows users to search for any city's current weather, temperature, hum
 
 ## 🔗 Live Demo
 
->()
+>(http://muhmmad-muzammil.github.io/Weather-App/)
 
 ---
 
